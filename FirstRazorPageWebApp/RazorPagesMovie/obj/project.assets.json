@@ -8548,11 +8548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/duarte/Desktop/FirstRazorPageWebApp/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectUniqueName": "/home/duarte/Desktop/web-beggining/FirstRazorPageWebApp/RazorPagesMovie/RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "/home/duarte/Desktop/FirstRazorPageWebApp/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectPath": "/home/duarte/Desktop/web-beggining/FirstRazorPageWebApp/RazorPagesMovie/RazorPagesMovie.csproj",
       "packagesPath": "/home/duarte/.nuget/packages/",
-      "outputPath": "/home/duarte/Desktop/FirstRazorPageWebApp/RazorPagesMovie/obj/",
+      "outputPath": "/home/duarte/Desktop/web-beggining/FirstRazorPageWebApp/RazorPagesMovie/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/duarte/.nuget/NuGet/NuGet.Config"
